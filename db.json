@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen mep",
+      "empresa": "softtek",
+      "email": "mepkaren@gmail.com",
+      "telefono": "5614155210",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Karen Mejia Paulino",
+      "empresa": "softtek",
+      "email": "mepkaren@gmail.com",
+      "telefono": "5614155210",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "No es Karen",
+      "empresa": "softtek",
+      "email": "karen.mejia@softtek.com",
+      "telefono": "5614155210",
+      "notas": "Estoy de prueba",
+      "id": 3
+    }
+  ]
+}
